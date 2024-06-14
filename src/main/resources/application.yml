@@ -28,18 +28,10 @@ application:
         path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt' #规则地址
       - name: 'Github 520' #规则名称
         path: 'https://raw.hellogithub.com/hosts' #规则地址
-      - name: '知乎' #规则名称
-        path: 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt' #规则地址
-      - name: '百度' #规则名称
-        path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #规则地址
       - name: 'I dont care about cookies' #规则名称
         path: 'https://www.i-dont-care-about-cookies.eu/abp' #规则地址
       - name: 'ABP Merge' #规则名称
         path: 'https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt' #规则地址
-      - name: 'AdFilters' #规则名称
-        path: 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt' #规则地址
-      - name: 'yHosts' #规则名称
-        path: 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt' #规则地址
 
         
     #本地规则文件
