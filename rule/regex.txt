@@ -1,15 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-14 10:11:00
+! Last Modified: 2024-06-14 10:14:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||asd8900.oss-*.aliyuncs.com^
-||iwanshang*.asia^
-||ky891.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||txhfgwgkwt*.asia^
-||vns86.oss-*.aliyuncs.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -20,22 +13,29 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||asd8900.oss-*.aliyuncs.com^
+||iwanshang*.asia^
+||ky891.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||txhfgwgkwt*.asia^
+||vns86.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||121.204.246.*.gif
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
-||121.204.246.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -59,13 +59,6 @@
 ||ysdm*.ys137.com.cn^
 ||acookie.*.gif?
 ||geotargetly-api-*.com^
-||collector-*.px-client.net^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||aff*.kolektiva.net^
-||stats2.*.fdnames.com^
-||stats-*.p2pnow.ru^
-||faro-collector-prod-*.grafana.net^
 ||113.17.188.*.js
 ||120.27.*.html
 ||122.225.103.*.htm
@@ -73,10 +66,17 @@
 ||218.26.217.*.html
 ||8*.tianya.cn^
 ||ad*.on.cc^
-||hn-ping*.hashnode.com^
 ||ads*.depositfiles.org^
 ||ads*.dfiles.eu^
 ||bjkedv*.xyz^
+||collector-*.px-client.net^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||aff*.kolektiva.net^
+||stats2.*.fdnames.com^
+||stats-*.p2pnow.ru^
+||faro-collector-prod-*.grafana.net^
+||hn-ping*.hashnode.com^
 ||gtlpa*.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
