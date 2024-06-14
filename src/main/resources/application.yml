@@ -18,12 +18,30 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: 'Subscription 1'
-        path: 'https://example.org/rule.txt' #仅支持 http/https，不限定响应内容格式
+      - name: 'AdGuard DNS filter' #规则名称
+        path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt' #规则地址
+      - name: '1Hosts (mini)' #规则名称
+        path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt' #规则地址
+      - name: 'Neodev Host' #规则名称
+        path: 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker' #规则地址
+      - name: 'HaGeZi Multi NORMAL' #规则名称
+        path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt' #规则地址
+      - name: 'Github 520' #规则名称
+        path: 'https://raw.hellogithub.com/hosts' #规则地址
+      - name: '知乎' #规则名称
+        path: 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt' #规则地址
+      - name: '百度' #规则名称
+        path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #规则地址
+      - name: 'I dont care about cookies' #规则名称
+        path: 'https://www.i-dont-care-about-cookies.eu/abp' #规则地址
+      - name: 'ABP Merge' #规则名称
+        path: 'https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt' #规则地址
+      - name: 'AdFilters' #规则名称
+        path: 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt' #规则地址
+      - name: 'yHosts' #规则名称
+        path: 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt' #规则地址
 
-      - name: 'Subscription 2'
-        path: 'http://example.org/rule.txt'
-
+        
     #本地规则文件
     local:
       - name: 'local rule'
