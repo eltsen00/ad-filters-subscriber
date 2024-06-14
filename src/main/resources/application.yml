@@ -26,12 +26,19 @@ application:
         path: 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker' #规则地址
       - name: 'HaGeZi Multi NORMAL' #规则名称
         path: 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt' #规则地址
-      - name: 'Github 520' #规则名称
-        path: 'https://raw.hellogithub.com/hosts' #规则地址
-      - name: 'I dont care about cookies' #规则名称
-        path: 'https://www.i-dont-care-about-cookies.eu/abp' #规则地址
+      - name: 'AdGuard – Cookie Notices' #规则名称
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt' #规则地址
       - name: 'ABP Merge' #规则名称
         path: 'https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt' #规则地址
+      - name: 'AdGuard Chinese' #规则名称
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #规则地址
+      - name: 'AdGuard Tracking Protection' #规则名称
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt' #规则地址
+      - name: 'AdGuard URL Tracking Protection' #规则名称
+        path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt' #规则地址
+      - name: 'Peter Lowe’s Ad and tracking server list' #规则名称
+        path: 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #规则地址
+      
 
         
     #本地规则文件
