@@ -36,8 +36,13 @@ application:
         
     #本地规则文件
     local:
-      - name: 'local rule'
-        path: 'local-rule.txt' #支持绝对/相对路径
+      - name: '知乎'
+        path: 'local-rule/zhihu-strict.txt' #支持绝对/相对路径
+      - name: '百度'
+        path: 'local-rule/kill-baidu-ad.txt' #支持绝对/相对路径
+      - name: 'yHost'
+        path: 'local-rule/yHost.txt' #支持绝对/相对路径
+
 
   #输出配置
   output:
