@@ -1,9 +1,8 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-14 10:14:46
+! Last Modified: 2024-06-14 10:17:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-::1             localhost
 ||192.168.112.2o7.net^
 140.82.112.25                 alive.github.com
 140.82.112.6                  api.github.com
@@ -27,7 +26,6 @@
 140.82.113.4                  github.com
 140.82.113.17                 github.community
 185.199.110.154               github.githubassets.com
-||192.168.122.2o7.net^
 151.101.193.194               github.global.ssl.fastly.net
 185.199.109.153               github.io
 185.199.108.133               github.map.fastly.net
@@ -38,4 +36,5 @@
 185.199.108.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
 140.82.114.22                 education.github.com
+||192.168.122.2o7.net^
 ||net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net^
