@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-15 16:08:20
+! Last Modified: 2024-06-16 00:06:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ad*.on.cc^
@@ -17,12 +17,12 @@
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
-||s*.skencituer.com^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||rum*.cdnvideo.ru^
@@ -46,33 +46,28 @@
 ||121.204.246.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
+||impservice*.yodao.com^
+||impservice*.youdao.com^
+||ja*.gamersky.com^
+||js*.abolezi.com^
 ||113.17.188.*.js
 ||120.27.*.html
 ||122.225.103.*.htm
 ||163487*.qmgmw.com^
 ||218.26.217.*.html
-||impservice*.yodao.com^
-||impservice*.youdao.com^
-||ja*.gamersky.com^
-||js*.abolezi.com^
-||8*.tianya.cn^
+||sam*.baby-kingdom.com^
+||same*.stockstar.com^
+||ya*.dwstatic.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||acookie.*.gif?
-||ads*.depositfiles.org^
-||ads*.dfiles.eu^
 ||at*.doubanio.com^
 ||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
-||bjkedv*.xyz^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
-||sam*.baby-kingdom.com^
-||same*.stockstar.com^
-||ya*.dwstatic.com^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dn*.ixinwei.com^
@@ -84,12 +79,6 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
 ||collector-*.px-cloud.net^
 ||collector-*.px-cdn.net^
 ||collector-*.pxchk.net^
@@ -140,7 +129,6 @@
 ||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
 ||metric*.rediff.com^
-||thezbpe5*.xyz^
 ||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
@@ -153,18 +141,17 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
+||8*.tianya.cn^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||ads*.dfiles.eu^
+||bjkedv*.xyz^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -206,6 +193,7 @@
 ||parkdomainreal*.site^
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
+||thezbpe5*.xyz^
 ||metrics*.fitanalytics.com^
 ||track.*.roku.com^
 ||tracking.*.miui.com^
@@ -273,6 +261,18 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
