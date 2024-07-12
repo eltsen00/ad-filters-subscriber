@@ -1,26 +1,18 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-12 08:30:32
+! Last Modified: 2024-07-12 16:09:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
-||ad*.on.cc^
 ||clk.rtpdn*.com^
 ||bms*.adjarabet.com^
+||teleriumads-*.netdna-ssl.com^
+||putrr*.com^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
-||asd8900.oss-*.aliyuncs.com^
-||iwanshang*.asia^
-||ky891.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||txhfgwgkwt*.asia^
-||vns86.oss-*.aliyuncs.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||107.167.16.*.gif
-||121.204.246.*.gif
-||67.21.92.*.gif
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
 ||collector-*.tvsquared.com^
@@ -34,8 +26,6 @@
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
-||teleriumads-*.netdna-ssl.com^
-||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
@@ -44,18 +34,28 @@
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
+||asd8900.oss-*.aliyuncs.com^
+||iwanshang*.asia^
+||ky891.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||txhfgwgkwt*.asia^
+||vns86.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||107.167.16.*.gif
+||121.204.246.*.gif
+||67.21.92.*.gif
+||107.167.22.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||163487*.qmgmw.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -77,6 +77,7 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||ads*.dfiles.eu^
