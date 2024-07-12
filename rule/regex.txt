@@ -1,15 +1,19 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-12 16:09:47
+! Last Modified: 2024-07-13 00:08:02
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
 ||bms*.adjarabet.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+||ad*.on.cc^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
@@ -21,19 +25,15 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -51,11 +51,11 @@
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
