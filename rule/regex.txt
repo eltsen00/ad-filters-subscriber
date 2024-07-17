@@ -1,12 +1,21 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-17 08:31:29
+! Last Modified: 2024-07-17 16:09:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
+||ad*.on.cc^
+||collector*.ex.co^
+||collect-v*.51.la^
+||px*.mediahills.ru^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
 ||clk.rtpdn*.com^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
 ||bms*.adjarabet.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
@@ -15,15 +24,9 @@
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||prebid-*.rubiconproject.com^
-||collector*.ex.co^
-||collect-v*.51.la^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
 ||asd8900.oss-*.aliyuncs.com^
@@ -37,9 +40,6 @@
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -48,14 +48,14 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
+||ya*.dwstatic.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
-||ya*.dwstatic.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -90,6 +90,18 @@
 ||p26.gejulm*.com^
 ||sd.yhzzzs*.com^
 ||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
 ||hn-ping*.hashnode.com^
@@ -150,18 +162,6 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
