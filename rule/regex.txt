@@ -1,20 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-18 16:08:55
+! Last Modified: 2024-07-19 00:07:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||collector*.ex.co^
-||collect-v*.51.la^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -22,13 +10,16 @@
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
+||ad*.on.cc^
+||collector*.ex.co^
+||collect-v*.51.la^
+@@||adobeid-*.services.adobe.com^
+||px*.mediahills.ru^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
+@@||cdn-msp*.18comic.*^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -36,26 +27,35 @@
 ||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||mf*.advantage.as^
 ||107.167.16.*.gif
 ||121.204.246.*.gif
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||prebid-*.rubiconproject.com^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
+||stats*.videonow.ru^
+||analytics*.clickdimensions.com^
+||mon*-*.tiktokv.us^
+||mon-*.tiktokv.com^
+||xlog*-*.tiktokv.com^
+||mcs-va-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
-||mon*-*.tiktokv.us^
-||mon-*.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -189,13 +189,17 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
+||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
+||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -231,7 +235,6 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -266,9 +269,6 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
