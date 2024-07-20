@@ -1,10 +1,23 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-20 16:08:00
+! Last Modified: 2024-07-21 00:06:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||ads.livetv*.me^
+||counter*.stat.ovh^
+||clk.rtpdn*.com^
+||bms*.adjarabet.com^
+||teleriumads-*.netdna-ssl.com^
+||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
 ||ad*.on.cc^
-||collector*.ex.co^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -16,31 +29,18 @@
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||adi*.cnool.net^
+||ax.*.ifeng.com^
+||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
-||ads.livetv*.me^
-||counter*.stat.ovh^
-||clk.rtpdn*.com^
-||bms*.adjarabet.com^
-||teleriumads-*.netdna-ssl.com^
-||putrr*.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
-||adi*.cnool.net^
-||ax.*.ifeng.com^
 ||analytics*.clickdimensions.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -48,6 +48,8 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||ya*.dwstatic.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
@@ -75,8 +77,6 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
@@ -189,17 +189,13 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
-||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
-||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -235,6 +231,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -261,6 +258,9 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
