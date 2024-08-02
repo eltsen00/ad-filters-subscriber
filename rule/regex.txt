@@ -1,8 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-02 08:31:08
+! Last Modified: 2024-08-02 16:09:17
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -17,7 +18,24 @@
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
-||ad*.on.cc^
+||collector*.ex.co^
+||collect-v*.51.la^
+||px*.mediahills.ru^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
+||stats*.videonow.ru^
+||analytics*.clickdimensions.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
+||mon*-*.tiktokv.us^
+||mon-*.tiktokv.com^
+||xlog*-*.tiktokv.com^
+||mcs-va-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -25,8 +43,6 @@
 ||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||collector*.ex.co^
-||collect-v*.51.la^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||121.204.246.*.gif
@@ -34,9 +50,6 @@
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -44,14 +57,7 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
-||analytics*.clickdimensions.com^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -73,17 +79,30 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||mon*-*.tiktokv.us^
-||mon-*.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||ads*.dfiles.eu^
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -201,9 +220,6 @@
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||report.*.qq.com^
 ||tnc16-*.byteoversea.com^
@@ -218,14 +234,14 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||opnked*.xyz^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
 ||adserver*.euroweeklynews.com^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
 ||orbit*.lun.ua^
 ||q*-publick.club^
 ||v.tzbox*.xyz^
@@ -236,19 +252,6 @@
 ||minitds-*.info^
 ||rb*.design.ru^
 ||real*traf.ru^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||subnewss*.net^
 ||u*.takru.com^
 ||v.newsportal*.ru^
@@ -279,9 +282,6 @@ analytics-*.aasaam.com
 ||ad*.wisenut.co.kr^
 ||adservice.google.co.*
 ||ads-*.v.ssp.yahoo.com^
-||mobileanalytics.*.amazonaws.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
 directtrack.*.js
