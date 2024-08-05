@@ -1,9 +1,21 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-05 00:05:59
+! Last Modified: 2024-08-05 08:33:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||ads.livetv*.me^
+||counter*.stat.ovh^
 ||ad*.on.cc^
+||clk.rtpdn*.com^
+||bms*.adjarabet.com^
+||teleriumads-*.netdna-ssl.com^
+||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
@@ -15,6 +27,8 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
@@ -33,11 +47,9 @@
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||adi*.cnool.net^
-||ads.livetv*.me^
-||counter*.stat.ovh^
-||clk.rtpdn*.com^
-||bms*.adjarabet.com^
 ||ax.*.ifeng.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -45,18 +57,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||teleriumads-*.netdna-ssl.com^
-||putrr*.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -87,22 +87,6 @@
 ||gtlpa*.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
@@ -164,6 +148,8 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
+||opnked*.xyz^
+||p26.gejulm*.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -206,6 +192,7 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
+||sd.yhzzzs*.com^
 ||track.*.roku.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
@@ -258,6 +245,19 @@
 ||w*statistics.info^
 ||dw-informer-*.newsru.com^
 ||banner*.kinogo.by^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||ad*.bilgin.pro^
 ||ad*.tmgrup.com.tr^
 ||basvformu*.xyz^
