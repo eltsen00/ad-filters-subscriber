@@ -1,9 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-21 16:09:51
+! Last Modified: 2024-08-22 00:09:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
 ||collect-v*.51.la^
@@ -15,7 +14,6 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -30,11 +28,15 @@
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
+||ad*.on.cc^
+||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -47,8 +49,6 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -85,11 +85,6 @@
 ||ads*.dfiles.eu^
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -145,7 +140,26 @@
 ||sensorsdata*.read.duokan.com^
 ||analytics.*.sky.com^
 ||ad*.ettoday.net^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
 ||log*.vietnamplus.vn^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adcounter*.uptolike.ru^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics*.carambo.la^
@@ -221,12 +235,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 ||tracking*.euroads.fi^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -239,18 +248,6 @@
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||rb*.design.ru^
 ||real*traf.ru^
 ||subnewss*.net^
@@ -273,6 +270,9 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
