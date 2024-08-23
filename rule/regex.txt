@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-23 08:31:55
+! Last Modified: 2024-08-23 16:10:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ad*.on.cc^
@@ -14,12 +14,12 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||pixel-*.convertagain.net^
-||collector*.ex.co^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
+||pixel-*.convertagain.net^
+||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
@@ -35,6 +35,8 @@
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -51,8 +53,6 @@
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
