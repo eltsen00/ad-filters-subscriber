@@ -1,19 +1,21 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-25 08:35:24
+! Last Modified: 2024-08-25 16:08:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
 ||bms*.adjarabet.com^
 ||teleriumads-*.netdna-ssl.com^
+||ad*.on.cc^
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||pixel-*.convertagain.net^
+||collector*.ex.co^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
@@ -30,8 +32,6 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||pixel-*.convertagain.net^
-||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
@@ -49,8 +49,6 @@
 ||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -58,20 +56,16 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||163487*.qmgmw.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||acookie.*.gif?
-||ads*.depositfiles.org^
-||ads*.dfiles.eu^
-||app2.*dfs.com^
 ||at*.doubanio.com^
 ||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
-||bjkedv*.xyz^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||dm*.ppzuowen.com^
@@ -80,6 +74,12 @@
 ||fanpingbi*.gaokao.com^
 ||fpb*.51edu.com^
 ||gcw*.2liang.cn^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||ads*.dfiles.eu^
+||app2.*dfs.com^
+||bjkedv*.xyz^
 ||qpb*.sohu.com^
 ||static*.365inews.com^
 ||uc*.atobo.com^
@@ -140,31 +140,6 @@
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
 ||gscounters.*.gigya.com^
-||host*.carl-ras.dk^
-||host*.ncoi.nl^
-||host*.nti.nl^
-||host*.polaroid.com^
-||host*.rvshare.com^
-||host*.rigbyandpeller.com^
-||hstats*.hepsiburada.com^
-||iptracker-lb-*.amazonaws.com^
-||lively-collect-elb-*.amazonaws.com^
-||log*.aliyuncs.com^
-||logger-*.dailymotion.com^
-||lt*.tritondigital.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
-||pixel*.adswizz.com
-||pxl-*.ozone.ru^
-||ssp*.rtb.beeline.ru^
-||st-*.dynamicyield.com^
-||stat*.1internet.tv^
-||t*.zcvh.net^
-||tracking*.euroads.fi^
-||trk*.vidible.tv^
-||tw*.netcore.co.in^
-||api-*.hismarttv.com^
-||auth-*.hismarttv.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -207,6 +182,28 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
+||host*.carl-ras.dk^
+||host*.ncoi.nl^
+||host*.nti.nl^
+||host*.polaroid.com^
+||host*.rvshare.com^
+||host*.rigbyandpeller.com^
+||hstats*.hepsiburada.com^
+||iptracker-lb-*.amazonaws.com^
+||lively-collect-elb-*.amazonaws.com^
+||log*.aliyuncs.com^
+||logger-*.dailymotion.com^
+||lt*.tritondigital.com^
+||pixel*.adswizz.com
+||pxl-*.ozone.ru^
+||ssp*.rtb.beeline.ru^
+||st-*.dynamicyield.com^
+||stat*.1internet.tv^
+||t*.zcvh.net^
+||trk*.vidible.tv^
+||tw*.netcore.co.in^
+||api-*.hismarttv.com^
+||auth-*.hismarttv.com^
 ||track.*.roku.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
@@ -240,6 +237,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -251,6 +249,8 @@
 ||alishop*.ru^
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||minitds-*.info^
 ||rb*.design.ru^
 ||real*traf.ru^
