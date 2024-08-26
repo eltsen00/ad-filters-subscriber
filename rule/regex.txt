@@ -1,14 +1,14 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-26 00:04:42
+! Last Modified: 2024-08-26 08:33:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
 ||bms*.adjarabet.com^
 ||teleriumads-*.netdna-ssl.com^
+||ad*.on.cc^
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
@@ -35,6 +35,7 @@
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
+@@||adobeid-*.services.adobe.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
@@ -47,7 +48,6 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-@@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
@@ -86,24 +86,6 @@
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
@@ -155,6 +137,8 @@
 ||metric*.rediff.com^
 ||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
+||js.*2023*.live^
+||js.*2023*.xyz^
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
@@ -165,6 +149,22 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
