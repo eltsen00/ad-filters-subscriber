@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-13 08:33:50
+! Last Modified: 2024-09-13 16:09:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ads.livetv*.me^
@@ -15,7 +15,6 @@
 ||www.fuze-sea*.xyz^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
-||ad*.on.cc^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
 ||pixel-*.convertagain.net^
@@ -30,9 +29,8 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||ad*.on.cc^
 ||query*.petametrics.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
@@ -48,6 +46,8 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -56,26 +56,20 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-||163487*.qmgmw.com^
+||ya*.dwstatic.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||acookie.*.gif?
-||ads*.depositfiles.org^
-||ads*.dfiles.eu^
-||app2.*dfs.com^
 ||at*.doubanio.com^
 ||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
-||bjkedv*.xyz^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dn*.ixinwei.com^
-||ya*.dwstatic.com^
 ||fanpingbi*.gaokao.com^
 ||fpb*.51edu.com^
 ||gcw*.2liang.cn^
@@ -84,26 +78,6 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||util-*.simply-hentai.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -249,9 +223,6 @@
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 ||rb*.design.ru^
 ||real*traf.ru^
 ||subnewss*.net^
@@ -266,6 +237,9 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
@@ -274,6 +248,13 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||ads*.dfiles.eu^
+||app2.*dfs.com^
+||bjkedv*.xyz^
+||gtlpa*.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
@@ -286,5 +267,24 @@ analytics-*.aasaam.com
 ||ads-*.v.ssp.yahoo.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||util-*.simply-hentai.com^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 directtrack.*.js
 ||log*-applog-*.tiktokv.com^
