@@ -1,11 +1,10 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-21 16:08:37
+! Last Modified: 2024-09-22 00:08:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
-||clk.rtpdn*.com^
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
 ||collect-v*.51.la^
@@ -14,30 +13,24 @@
 ||browser-intake-*-datadoghq.com^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
-||ad*.on.cc^
-||query*.petametrics.com^
+||clk.rtpdn*.com^
 ||bms*.adjarabet.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
+||ad*.on.cc^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||mon*-*.tiktokv.us^
-||mon-*.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va-*.tiktokv.com^
 ||prebid-*.rubiconproject.com^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
 ||pijama.*.elasticbeanstalk.com^
+||stats*.videonow.ru^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
-||sock*-goguardian.pusher.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
+||analytics*.clickdimensions.com^
+||query*.petametrics.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -48,6 +41,11 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||mon*-*.tiktokv.us^
+||mon-*.tiktokv.com^
+||xlog*-*.tiktokv.com^
+||mcs-va-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -57,6 +55,8 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -84,10 +84,6 @@
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
@@ -149,21 +145,10 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||util-*.simply-hentai.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -211,6 +196,9 @@
 ||datacollector-*.dt.hicloud.com^
 ||admob-app-id-*.firebaseio.com^
 ||analytics-*-nfl.yinzcam.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||util-*.simply-hentai.com^
 ||mon*-platform-*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
@@ -237,6 +225,18 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||device-metrics-*.amazon.com^
 ||flurry.agentportal.*.yahoodns.net^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||aff*.kolektiva.net^
