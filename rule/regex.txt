@@ -1,9 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-29 16:09:50
+! Last Modified: 2024-09-30 00:07:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -15,10 +14,14 @@
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
+||ad*.on.cc^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
 ||collector-*.tvsquared.com^
@@ -28,16 +31,11 @@
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
 ||query*.petametrics.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -48,6 +46,8 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -189,8 +189,8 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
-||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
+||logger-*.dailymotion.com^
 ||metric*.rediff.com^
 ||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
@@ -199,9 +199,9 @@
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
-||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
+||tracking*.euroads.fi^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
 ||track.*.roku.com^
