@@ -1,8 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-04 08:35:56
+! Last Modified: 2024-10-04 16:10:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -11,13 +12,6 @@
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||ad*.on.cc^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
 ||collect-v*.51.la^
@@ -30,11 +24,19 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||mon*-*.tiktokv.us^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -51,6 +53,7 @@
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
+||163487*.qmgmw.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
@@ -75,8 +78,10 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic.*^
+||acookie.*.gif?
+||app2.*dfs.com^
+||bjkedv*.xyz^
+||gtlpa*.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -119,17 +124,12 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
-||query*.petametrics.com^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
 ||hn-ping*.hashnode.com^
 ||ana*.inews24.com^
 ||a*.smlog.co.kr^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||app2.*dfs.com^
-||bjkedv*.xyz^
 ||pixel*.production-public.tubi.io^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||telemetry*.transcend.io^
@@ -140,9 +140,6 @@
 ||log*.vietnamplus.vn^
 ||adcounter*.uptolike.ru^
 ||analytics-rollout-*.amazonaws.com^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||analytics*.carambo.la^
 ||analyzer*.fc2.com^
 ||app-analytics-*.snapchat.com^
@@ -158,10 +155,6 @@
 ||eum*.instana.io^
 ||events-api*.outfit7.com^
 ||events*.cre.ma^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
@@ -175,6 +168,11 @@
 ||host*.rigbyandpeller.com^
 ||hstats*.hepsiburada.com^
 ||iptracker-lb-*.amazonaws.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||query*.petametrics.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
 ||lt*.tritondigital.com^
@@ -184,18 +182,6 @@
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -221,10 +207,6 @@
 ||appanalysis*.banggood.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||report.*.qq.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
-||tracking*.euroads.fi^
 ||tnc16-*.byteoversea.com^
 ||log*.byteoversea.com^
 ||api*.amplitude.com^
@@ -237,6 +219,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -246,11 +229,16 @@
 ||v.tzbox*.xyz^
 ||cdn*.swaxis.com^
 ||alishop*.ru^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
 ||rb*.design.ru^
 ||real*traf.ru^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
 ||subnewss*.net^
 ||u*.takru.com^
 ||v.newsportal*.ru^
@@ -271,6 +259,18 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
