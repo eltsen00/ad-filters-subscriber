@@ -1,27 +1,23 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-06 16:08:47
+! Last Modified: 2024-10-07 00:07:09
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
 ||bms*.adjarabet.com^
-||pixel-*.convertagain.net^
-||collector*.ex.co^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||ad*.on.cc^
+||pixel-*.convertagain.net^
+||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
-||ad*.on.cc^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
 ||collector-*.tvsquared.com^
@@ -35,11 +31,14 @@
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
-@@||adobeid-*.services.adobe.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
@@ -48,6 +47,7 @@
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
+@@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic.*^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -148,6 +148,19 @@
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
 ||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
@@ -250,19 +263,6 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
