@@ -1,8 +1,16 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-10 08:35:44
+! Last Modified: 2024-10-10 16:10:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||pixel-*.convertagain.net^
+||collector*.ex.co^
+||collect-v*.51.la^
+||px*.mediahills.ru^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -13,23 +21,17 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||ad*.on.cc^
-||pixel-*.convertagain.net^
-||collector*.ex.co^
-||collect-v*.51.la^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
+||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||mon*-*.tiktokv.us^
+||mon-*.tiktokv.com^
+||xlog*-*.tiktokv.com^
+||mcs-va-*.tiktokv.com^
+||sock*-goguardian.pusher.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -40,11 +42,9 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||mon*-*.tiktokv.us^
-||mon-*.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va-*.tiktokv.com^
-||sock*-goguardian.pusher.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -83,19 +83,11 @@
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
 ||hn-ping*.hashnode.com^
 ||ana*.inews24.com^
-||yhsfsdv*.com^
 ||a*.smlog.co.kr^
 ||pixel*.production-public.tubi.io^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -106,17 +98,7 @@
 ||ad*.ettoday.net^
 ||log*.vietnamplus.vn^
 ||adcounter*.uptolike.ru^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
 ||analytics-rollout-*.amazonaws.com^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||analytics*.carambo.la^
 ||analyzer*.fc2.com^
 ||app-analytics-*.snapchat.com^
@@ -162,6 +144,24 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.textra.me^
