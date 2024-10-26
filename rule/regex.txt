@@ -1,10 +1,24 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-26 08:35:16
+! Last Modified: 2024-10-26 16:09:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
+||log*.zijieapi.com^
+||mssdk*.zijieapi.com^
+||polaris*-normal-*.zijieapi.com^
+||tnc*.zijieapi.com^
+||pixel-*.convertagain.net^
+||collector*.ex.co^
+||collect-v*.51.la^
+||px*.mediahills.ru^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
 ||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
@@ -12,7 +26,9 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||stats*.videonow.ru^
 ||prebid-*.rubiconproject.com^
+||analytics*.clickdimensions.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
@@ -27,31 +43,16 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
-||log*.zijieapi.com^
-||mssdk*.zijieapi.com^
-||polaris*-normal-*.zijieapi.com^
-||tnc*.zijieapi.com^
-||pixel-*.convertagain.net^
 ||ax.*.ifeng.com^
-||collector*.ex.co^
-||collect-v*.51.la^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
+@@||adobeid-*.services.adobe.com^
 ||js*.abolezi.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
@@ -60,7 +61,6 @@
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
-||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
 ||d*.ruiwen.com^
@@ -76,11 +76,11 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||sock*-goguardian.pusher.com^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||app2.*dfs.com^
+||bd*-ys.km.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
 ||js.*2023*.live^
@@ -253,6 +253,9 @@
 ||cdn*.swaxis.com^
 ||alishop*.ru^
 ||gonews*.net^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
 ||rb*.design.ru^
@@ -277,9 +280,6 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
