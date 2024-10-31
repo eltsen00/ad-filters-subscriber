@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-31 00:09:25
+! Last Modified: 2024-10-31 08:37:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ads.livetv*.me^
@@ -17,16 +17,6 @@
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
 ||ad*.on.cc^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||vns86.oss-*.aliyuncs.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||107.167.16.*.gif
-||107.167.22.*.gif
-||121.204.246.*.gif
-||38.33.15.*.gif
-||67.21.92.*.gif
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -43,11 +33,21 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||adi*.cnool.net^
-||ax.*.ifeng.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||vns86.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||107.167.16.*.gif
+||107.167.22.*.gif
+||121.204.246.*.gif
+||38.33.15.*.gif
+||67.21.92.*.gif
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+||adi*.cnool.net^
+||ax.*.ifeng.com^
 ||sock*-goguardian.pusher.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -55,6 +55,7 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+||ya*.dwstatic.com^
 ||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
@@ -62,7 +63,6 @@
 ||ac*.pingguolv.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
-||ya*.dwstatic.com^
 ||app2.*dfs.com^
 ||at*.doubanio.com^
 ||bdcpro*.techweb.com.cn^
@@ -86,6 +86,9 @@
 ||js.*2023*.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||util-*.simply-hentai.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ads*-normal-*.zijieapi.com^
 ||reachableads-av.*.amazonaws.com^
@@ -135,7 +138,6 @@
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
 ||hn-ping*.hashnode.com^
-||sd.yhzzzs*.com^
 ||ana*.inews24.com^
 ||a*.smlog.co.kr^
 ||pixel*.production-public.tubi.io^
@@ -163,6 +165,7 @@
 ||eum*.instana.io^
 ||events-api*.outfit7.com^
 ||events*.cre.ma^
+||www.xxmh*.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
@@ -189,6 +192,7 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
+||yhsfsdv*.com^
 ||track.*.roku.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
@@ -209,7 +213,17 @@
 ||report.*.qq.com^
 ||tnc16-*.byteoversea.com^
 ||log*.byteoversea.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
 ||api*.amplitude.com^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
 ||tracking-*.trnox.com^
@@ -262,20 +276,6 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||thezbpe5*.xyz^
-||util-*.simply-hentai.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||logger-*.dailymotion.com^
 ||metric*.rediff.com^
 ||mobileanalytics.*.amazonaws.com^
