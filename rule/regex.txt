@@ -1,9 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-02 08:35:43
+! Last Modified: 2024-11-02 16:09:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -11,6 +10,13 @@
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
+||ad*.on.cc^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||vns86.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||107.167.16.*.gif
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||log*.zijieapi.com^
@@ -22,10 +28,6 @@
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||browser-intake-*-datadoghq.com^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -33,13 +35,10 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||sock*-goguardian.pusher.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||vns86.oss-*.aliyuncs.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||107.167.16.*.gif
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||107.167.22.*.gif
 ||121.204.246.*.gif
 ||38.33.15.*.gif
@@ -47,6 +46,7 @@
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -56,6 +56,7 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
+||163487*.qmgmw.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -76,12 +77,18 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||util-*.simply-hentai.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ads*-normal-*.zijieapi.com^
 ||reachableads-av.*.amazonaws.com^
@@ -190,15 +197,12 @@
 ||admob-app-id-*.firebaseio.com^
 ||analytics-*-nfl.yinzcam.com^
 ||report.*.gbqofs.io^
-||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
-||metric*.rediff.com^
 ||fp-*it*.fengkongcloud.com^
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
-||mobileanalytics.*.amazonaws.com^
 ||mapi-log.qoo*.jp^
 ||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
@@ -224,9 +228,9 @@
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
-||tracking*.euroads.fi^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -253,11 +257,7 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
 ||admicro*.vcmedia.vn^
-||p26.gejulm*.com^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||matomo.*.vn^
@@ -265,21 +265,6 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||util-*.simply-hentai.com^
-analytics-*.aasaam.com
-||pangolin*.sgsnssdk.com^
-||ad.*.doubleclick.net^
-||cdn-adn-*.rayjump.com^
-||iad-*.braze.com^
-||adimg*.search.naver.net^
-||ad*.thisisgame.com^
-||ad*.wisenut.co.kr^
-||adservice.google.co.*
-||ads-*.v.ssp.yahoo.com^
-||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
-||s*.adduplex.com^
 ||www.xxmh*.com^
 ||yhsfsdv*.com^
 ||zabdybod*.club^
@@ -292,5 +277,20 @@ analytics-*.aasaam.com
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
+analytics-*.aasaam.com
+||pangolin*.sgsnssdk.com^
+||ad.*.doubleclick.net^
+||cdn-adn-*.rayjump.com^
+||iad-*.braze.com^
+||adimg*.search.naver.net^
+||ad*.thisisgame.com^
+||ad*.wisenut.co.kr^
+||adservice.google.co.*
+||ads-*.v.ssp.yahoo.com^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||s*.adduplex.com^
 directtrack.*.js
 ||log*-applog-*.tiktokv.com^
