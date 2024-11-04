@@ -1,9 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-04 16:11:24
+! Last Modified: 2024-11-05 00:09:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -13,10 +12,14 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||ad*.on.cc^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -27,12 +30,6 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||adi*.cnool.net^
-||ax.*.ifeng.com^
-||impservice*.yodao.com^
-||impservice*.youdao.com^
-||ja*.gamersky.com^
-||js*.abolezi.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -43,16 +40,19 @@
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
-@@||adobeid-*.services.adobe.com^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||sock*-goguardian.pusher.com^
+||adi*.cnool.net^
+||ax.*.ifeng.com^
+||impservice*.yodao.com^
+||impservice*.youdao.com^
+||ja*.gamersky.com^
+||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
@@ -86,9 +86,6 @@
 ||js.*2023*.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||util-*.simply-hentai.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ads*-normal-*.zijieapi.com^
 ||reachableads-av.*.amazonaws.com^
@@ -132,10 +129,10 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
-||query*.petametrics.com^
-||servo-report.keepstreams.*^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||util-*.simply-hentai.com^
 ||www.xxmh*.com^
-||apple-*.le.com^
 ||yhsfsdv*.com^
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
@@ -147,6 +144,8 @@
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+||servo-report.keepstreams.*^
+||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
 ||hn-ping*.hashnode.com^
@@ -192,17 +191,22 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
+||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
+||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
+||query*.petametrics.com^
 ||track.*.roku.com^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
@@ -242,7 +246,6 @@
 ||mcs-va-*.tiktokv.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -255,9 +258,6 @@
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 ||rb*.design.ru^
 ||real*traf.ru^
 ||subnewss*.net^
