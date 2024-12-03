@@ -1,18 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-03 16:11:20
+! Last Modified: 2024-12-04 00:09:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ads.livetv*.me^
-||counter*.stat.ovh^
-||clk.rtpdn*.com^
-||teleriumads-*.netdna-ssl.com^
-||putrr*.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
 ||ad*.on.cc^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
@@ -30,25 +20,32 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||sock*-goguardian.pusher.com^
-||s*.skencituer.com^
+||ads.livetv*.me^
+||counter*.stat.ovh^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||sock*-goguardian.pusher.com^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||clk.rtpdn*.com^
+||teleriumads-*.netdna-ssl.com^
+||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
 ||adi*.cnool.net^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||ax.*.ifeng.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -56,6 +53,9 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -85,21 +85,7 @@
 ||js.*2023*.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||util-*.simply-hentai.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
+||f-log-*.grammarly.io^
 ||telemetry*.api.playstation.com^
 ||servo-report.keepstreams.*^
 ||apple-*.le.com^
@@ -227,7 +213,6 @@
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
 ||mapi-log.qoo*.jp^
-||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
@@ -272,6 +257,7 @@
 ||u*.takru.com^
 ||v.newsportal*.ru^
 ||w*statistics.info^
+||sd.yhzzzs*.com^
 ||dw-informer-*.newsru.com^
 ||banner*.kinogo.by^
 ||ad*.bilgin.pro^
@@ -288,6 +274,8 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||thezbpe5*.xyz^
+||util-*.simply-hentai.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
@@ -300,5 +288,17 @@ analytics-*.aasaam.com
 ||ads-*.v.ssp.yahoo.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 directtrack.*.js
 ||log*-applog-*.tiktokv.com^
