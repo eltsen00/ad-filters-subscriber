@@ -1,11 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-06 08:39:57
+! Last Modified: 2024-12-06 16:11:12
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
+||ad*.on.cc^
 ||clk.rtpdn*.com^
+||teleriumads-*.netdna-ssl.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -21,9 +23,7 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
-||ad*.on.cc^
 ||analytics*.clickdimensions.com^
-||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
@@ -43,6 +43,9 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
@@ -52,9 +55,6 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||ya*.dwstatic.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
@@ -74,8 +74,8 @@
 ||static*.365inews.com^
 ||uc*.atobo.com^
 ||union*.365inews.com^
-||ysdm*.ys137.com.cn^
 ||163487*.qmgmw.com^
+||ysdm*.ys137.com.cn^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||app2.*dfs.com^
@@ -252,8 +252,11 @@
 ||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
+||logger-*.dailymotion.com^
 ||stats-*.p2pnow.ru^
+||metric*.rediff.com^
 ||adserver*.euroweeklynews.com^
+||mobileanalytics.*.amazonaws.com^
 ||broredir*s.site^
 ||orbit*.lun.ua^
 ||q*-publick.club^
@@ -295,9 +298,6 @@ analytics-*.aasaam.com
 ||ad*.wisenut.co.kr^
 ||adservice.google.co.*
 ||ads-*.v.ssp.yahoo.com^
-||mobileanalytics.*.amazonaws.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
 directtrack.*.js
