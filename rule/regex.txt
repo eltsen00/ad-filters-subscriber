@@ -1,9 +1,11 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-06 00:09:43
+! Last Modified: 2024-12-06 08:39:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||ad*.on.cc^
+||ads.livetv*.me^
+||counter*.stat.ovh^
+||clk.rtpdn*.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -19,10 +21,8 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
+||ad*.on.cc^
 ||analytics*.clickdimensions.com^
-||ads.livetv*.me^
-||counter*.stat.ovh^
-||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
@@ -33,10 +33,6 @@
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
-||sock*-goguardian.pusher.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -47,6 +43,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -55,19 +52,17 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-||163487*.qmgmw.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||ya*.dwstatic.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
-||acookie.*.gif?
-||ads*.depositfiles.org^
-||app2.*dfs.com^
 ||at*.doubanio.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
-||bjkedv*.xyz^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||dm*.yxlady.com^
@@ -80,6 +75,11 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||app2.*dfs.com^
+||bjkedv*.xyz^
 ||gtlpa*.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
@@ -88,6 +88,18 @@
 ||sd.yhzzzs*.com^
 ||thezbpe5*.xyz^
 ||util-*.simply-hentai.com^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -132,18 +144,6 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||query*.petametrics.com^
 ||telemetry*.api.playstation.com^
 ||servo-report.keepstreams.*^
