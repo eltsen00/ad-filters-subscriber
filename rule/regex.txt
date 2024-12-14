@@ -1,26 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-14 08:38:50
+! Last Modified: 2024-12-14 16:09:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||ad*.on.cc^
-||log*.zijieapi.com^
-||mssdk*.zijieapi.com^
-||polaris*-normal-*.zijieapi.com^
-||tnc*.zijieapi.com^
-||pixel-*.convertagain.net^
-||collector*.ex.co^
-||collect-v*.51.la^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
-||sock*-goguardian.pusher.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -44,18 +27,35 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
+||log*.zijieapi.com^
+||mssdk*.zijieapi.com^
+||polaris*-normal-*.zijieapi.com^
+||tnc*.zijieapi.com^
+||pixel-*.convertagain.net^
+||collector*.ex.co^
+||collect-v*.51.la^
+||px*.mediahills.ru^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
+||stats*.videonow.ru^
+||analytics*.clickdimensions.com^
+@@||adobeid-*.services.adobe.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
+||sock*-goguardian.pusher.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -250,6 +250,9 @@
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracking*.euroads.fi^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
@@ -285,9 +288,6 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
