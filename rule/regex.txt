@@ -1,13 +1,11 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-21 00:08:22
+! Last Modified: 2025-01-21 08:35:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||zbb.bbb.*.pics^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
-||ad*.on.cc^
 ||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
@@ -15,16 +13,18 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
+||zbb.bbb.*.pics^
+||ad*.on.cc^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
@@ -255,7 +255,6 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
-||163487*.qmgmw.com^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
@@ -264,21 +263,7 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-analytics-*.aasaam.com
-||pangolin*.sgsnssdk.com^
-||ad.*.doubleclick.net^
-||cdn-adn-*.rayjump.com^
-||iad-*.braze.com^
-||adimg*.search.naver.net^
-||ad*.thisisgame.com^
-||ad*.wisenut.co.kr^
-||adservice.google.co.*
-||ads-*.v.ssp.yahoo.com^
-||mobileanalytics.*.amazonaws.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
-||s*.adduplex.com^
+||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||app2.*dfs.com^
@@ -302,5 +287,20 @@ analytics-*.aasaam.com
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+analytics-*.aasaam.com
+||pangolin*.sgsnssdk.com^
+||ad.*.doubleclick.net^
+||cdn-adn-*.rayjump.com^
+||iad-*.braze.com^
+||adimg*.search.naver.net^
+||ad*.thisisgame.com^
+||ad*.wisenut.co.kr^
+||adservice.google.co.*
+||ads-*.v.ssp.yahoo.com^
+||mobileanalytics.*.amazonaws.com^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||s*.adduplex.com^
 directtrack.*.js
 ||log*-applog-*.tiktokv.com^
