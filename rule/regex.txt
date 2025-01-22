@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-01-22 08:36:30
+! Last Modified: 2025-01-22 16:10:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||reachableads-av.*.amazonaws.com^
@@ -11,12 +11,8 @@
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
+||zbb.bbb.*.pics^
+||ad*.on.cc^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -32,10 +28,11 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||analytics*.clickdimensions.com^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
 ||sock*-goguardian.pusher.com^
+||prebid-*.rubiconproject.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -48,19 +45,41 @@
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
-||sam*.baby-kingdom.com^
-||same*.stockstar.com^
-||ya*.dwstatic.com^
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+||sam*.baby-kingdom.com^
+||same*.stockstar.com^
+||ya*.dwstatic.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
+||a*.chajiaotong.com^
+||ac*.786ip.com^
+||ac*.faxingchina.com^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
+||bdcpro*.techweb.com.cn^
+||bdlm*.hc360.com^
+||d*.ruiwen.com^
+||d*.xinshipu.com^
+||dm*.yxlady.com^
+||dn*.ixinwei.com^
+||fanpingbi*.gaokao.com^
+||fpb*.51edu.com^
+||gcw*.2liang.cn^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||uc*.atobo.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
 ||ads*.textra.me^
 ||ads-*-nfl.yinzcam.com^
 ||aan.amazon.*^
@@ -102,25 +121,6 @@
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
 ||query*.petametrics.com^
-||a*.chajiaotong.com^
-||ac*.786ip.com^
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
-||at*.doubanio.com^
-||bdcpro*.techweb.com.cn^
-||bdlm*.hc360.com^
-||d*.ruiwen.com^
-||d*.xinshipu.com^
-||dm*.yxlady.com^
-||dn*.ixinwei.com^
-||fanpingbi*.gaokao.com^
-||fpb*.51edu.com^
-||gcw*.2liang.cn^
-||qpb*.sohu.com^
-||static*.365inews.com^
-||uc*.atobo.com^
-||union*.365inews.com^
-||ysdm*.ys137.com.cn^
 ||clickstream-*.homedepot.com^
 ||acr-*-prd.samsungcloud.tv^
 ||servo-report.keepstreams.*^
@@ -263,7 +263,6 @@
 ||piwik.*.com.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||163487*.qmgmw.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
@@ -279,6 +278,7 @@ analytics-*.aasaam.com
 ||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
+||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||app2.*dfs.com^
@@ -302,5 +302,6 @@ analytics-*.aasaam.com
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+||collector-*.px-client.net^
 directtrack.*.js
 ||log*-applog-*.tiktokv.com^
