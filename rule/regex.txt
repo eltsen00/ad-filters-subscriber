@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-09 00:07:36
+! Last Modified: 2025-02-09 08:39:17
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||reachableads-av.*.amazonaws.com^
@@ -8,17 +8,12 @@
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
+||zbb.bbb.*.pics^
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||zbb.bbb.*.pics^
-||prebid-*.rubiconproject.com^
-||ad*.on.cc^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -36,6 +31,11 @@
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
 ||sock*-goguardian.pusher.com^
+||ad*.on.cc^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -48,9 +48,6 @@
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -58,25 +55,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||a*.chajiaotong.com^
-||ac*.786ip.com^
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
-||at*.doubanio.com^
-||bdcpro*.techweb.com.cn^
-||bdlm*.hc360.com^
-||d*.ruiwen.com^
-||d*.xinshipu.com^
-||dm*.yxlady.com^
-||dn*.ixinwei.com^
-||fanpingbi*.gaokao.com^
-||fpb*.51edu.com^
-||gcw*.2liang.cn^
-||qpb*.sohu.com^
-||static*.365inews.com^
-||uc*.atobo.com^
-||union*.365inews.com^
-||ysdm*.ys137.com.cn^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -87,6 +65,9 @@
 ||mob*.novanewsapp.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal-lq.zijieapi.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||v*-ad.video.yximgs.com^
 ||ads*.bojijulebu.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
@@ -184,11 +165,6 @@
 ||lt*.tritondigital.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||ads*.depositfiles.org^
-||app2.*dfs.com^
-||bjkedv*.xyz^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
@@ -197,6 +173,25 @@
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
+||a*.chajiaotong.com^
+||ac*.786ip.com^
+||ac*.faxingchina.com^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
+||bdcpro*.techweb.com.cn^
+||bdlm*.hc360.com^
+||d*.ruiwen.com^
+||d*.xinshipu.com^
+||dm*.yxlady.com^
+||dn*.ixinwei.com^
+||fanpingbi*.gaokao.com^
+||fpb*.51edu.com^
+||gcw*.2liang.cn^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||uc*.atobo.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||ulog*.kwai-pro.com^
@@ -241,11 +236,8 @@
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
-||gtlpa*.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
@@ -296,6 +288,14 @@ analytics-*.aasaam.com
 ||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||app2.*dfs.com^
+||bjkedv*.xyz^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
 ||opnked*.xyz^
 ||p26.gejulm*.com^
 ||sd.yhzzzs*.com^
