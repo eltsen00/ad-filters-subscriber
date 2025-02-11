@@ -1,11 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-11 00:09:13
+! Last Modified: 2025-02-11 08:36:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||reachableads-av.*.amazonaws.com^
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
@@ -17,25 +15,30 @@
 ||www.fuze-sea*.xyz^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||pixel-*.convertagain.net^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
+||zbb.bbb.*.pics^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||ad*.on.cc^
+@@||adobeid-*.services.adobe.com^
 ||sock*-goguardian.pusher.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -74,17 +77,11 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||ads*.depositfiles.org^
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -131,6 +128,12 @@
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
 ||query*.petametrics.com^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||mssdk*.capcutapi.com^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mcs-*.lemon8-app.com^
@@ -183,8 +186,6 @@
 ||gscounters.*.gigya.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
-||opnked*.xyz^
-||p26.gejulm*.com^
 ||host*.nti.nl^
 ||host*.polaroid.com^
 ||host*.rvshare.com^
@@ -199,8 +200,6 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
 ||t*.zcvh.net^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
@@ -259,12 +258,16 @@
 ||adserver*.euroweeklynews.com^
 ||broredir*s.site^
 ||orbit*.lun.ua^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
 ||q*-publick.club^
 ||v.tzbox*.xyz^
 ||cdn*.swaxis.com^
 ||alishop*.ru^
+||www.xxmh*.com^
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
+||yhsfsdv*.com^
 ||minitds-*.info^
 ||rb*.design.ru^
 ||real*traf.ru^
@@ -272,16 +275,9 @@
 ||u*.takru.com^
 ||v.newsportal*.ru^
 ||w*statistics.info^
-||dw-informer-*.newsru.com^
-||banner*.kinogo.by^
-||ad*.bilgin.pro^
-||ad*.tmgrup.com.tr^
-||basvformu*.xyz^
-||partner.superbahisaffiliates*.com^
-*ad.durasite.net^
-||bar*.shinobi.jp^
-||www.xxmh*.com^
-||yhsfsdv*.com^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
 ||zaqlovh*.xyz^
@@ -292,6 +288,14 @@
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+||dw-informer-*.newsru.com^
+||banner*.kinogo.by^
+||ad*.bilgin.pro^
+||ad*.tmgrup.com.tr^
+||basvformu*.xyz^
+||partner.superbahisaffiliates*.com^
+*ad.durasite.net^
+||bar*.shinobi.jp^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
@@ -299,10 +303,6 @@
 ||mautic.*.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||mssdk*.capcutapi.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
