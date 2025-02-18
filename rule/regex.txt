@@ -1,10 +1,25 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-18 08:36:29
+! Last Modified: 2025-02-18 16:10:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||reachableads-av.*.amazonaws.com^
+||ads.livetv*.me^
+||counter*.stat.ovh^
+||clk.rtpdn*.com^
 ||zbb.bbb.*.pics^
 ||ad*.on.cc^
+||teleriumads-*.netdna-ssl.com^
+||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -15,38 +30,23 @@
 ||px*.mediahills.ru^
 ||analytics*.prezly.com^
 ||browser-intake-*-datadoghq.com^
-||reachableads-av.*.amazonaws.com^
-||ads.livetv*.me^
-||counter*.stat.ovh^
-||clk.rtpdn*.com^
-||teleriumads-*.netdna-ssl.com^
-||putrr*.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||advert*.livesportmedia.eu^
 ||collector-*.tvsquared.com^
 ||pixelapi-*.cs.mysamba.tv^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||sock*-goguardian.pusher.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||sock*-goguardian.pusher.com^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -148,6 +148,7 @@
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
 ||query*.petametrics.com^
+||stlog*-local.kakao.com^
 ||mssdk*.capcutapi.com^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
@@ -172,7 +173,6 @@
 ||pixel*.production-public.tubi.io^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||telemetry*.transcend.io^
-||f-log-*.grammarly.io^
 ||pixel-*.rubiconproject.com^
 ||sensorsdata*.read.duokan.com^
 ||analytics.*.sky.com^
@@ -210,17 +210,13 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
-||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
-||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -249,6 +245,7 @@
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
 ||mapi-log.qoo*.jp^
+||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
@@ -274,6 +271,10 @@
 ||mcs-va-*.tiktokv.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
+||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
