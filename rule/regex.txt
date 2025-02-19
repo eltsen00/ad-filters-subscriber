@@ -1,13 +1,12 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-19 16:10:50
+! Last Modified: 2025-02-20 00:09:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
-||zbb.bbb.*.pics^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
@@ -16,12 +15,16 @@
 ||www.fuze-sea*.xyz^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
-||ad*.on.cc^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||pixel-*.convertagain.net^
+||zbb.bbb.*.pics^
+||ad*.on.cc^
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
@@ -33,9 +36,6 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||sock*-goguardian.pusher.com^
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic*.*^
@@ -79,6 +79,12 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||app2.*dfs.com^
+||bjkedv*.xyz^
+||gtlpa*.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -217,6 +223,10 @@
 ||admob-app-id-*.firebaseio.com^
 ||analytics-*-nfl.yinzcam.com^
 ||report.*.gbqofs.io^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -255,8 +265,22 @@
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
 ||adserver*.euroweeklynews.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
 ||broredir*s.site^
 ||orbit*.lun.ua^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||q*-publick.club^
 ||v.tzbox*.xyz^
 ||cdn*.swaxis.com^
@@ -278,7 +302,6 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
-||163487*.qmgmw.com^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
@@ -286,13 +309,6 @@
 ||mautic.*.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||acookie.*.gif?
-||ads*.depositfiles.org^
-||app2.*dfs.com^
-||bjkedv*.xyz^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
@@ -308,21 +324,5 @@ analytics-*.aasaam.com
 ||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 directtrack.*.js
 ||log*-applog-*.tiktokv.com^
