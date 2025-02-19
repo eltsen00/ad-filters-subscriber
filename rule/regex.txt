@@ -1,14 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-19 08:36:53
+! Last Modified: 2025-02-19 16:10:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
+||zbb.bbb.*.pics^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
@@ -17,9 +16,7 @@
 ||www.fuze-sea*.xyz^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
+||ad*.on.cc^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -36,20 +33,23 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
+||sock*-goguardian.pusher.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||sock*-goguardian.pusher.com^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -74,6 +74,7 @@
 ||fpb*.51edu.com^
 ||gcw*.2liang.cn^
 ||qpb*.sohu.com^
+||res*.pinpai8.cn^
 ||static*.365inews.com^
 ||uc*.atobo.com^
 ||union*.365inews.com^
@@ -216,9 +217,6 @@
 ||admob-app-id-*.firebaseio.com^
 ||analytics-*-nfl.yinzcam.com^
 ||report.*.gbqofs.io^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||ads*.depositfiles.org^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -247,9 +245,6 @@
 ||rtlog*.tiktokv.us^
 ||rtlog*.tiktokv.com^
 ||mon*-*.tiktokv.us^
-||app2.*dfs.com^
-||bjkedv*.xyz^
-||gtlpa*.com^
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
@@ -283,17 +278,21 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
+||163487*.qmgmw.com^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||matomo.*.vn^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
 ||mautic.*.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||acookie.*.gif?
+||ads*.depositfiles.org^
+||app2.*dfs.com^
+||bjkedv*.xyz^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
@@ -309,6 +308,8 @@ analytics-*.aasaam.com
 ||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
+||opnked*.xyz^
+||p26.gejulm*.com^
 ||sd.yhzzzs*.com^
 ||thezbpe5*.xyz^
 ||www.xxmh*.com^
