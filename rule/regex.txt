@@ -1,14 +1,12 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-26 00:09:44
+! Last Modified: 2025-02-26 08:37:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||reachableads-av.*.amazonaws.com^
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
-||clk.rtpdn*.com^
+||zbb.bbb.*.pics^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -17,14 +15,7 @@
 ||collector*.ex.co^
 ||collect-v*.51.la^
 ||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
+||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
@@ -32,8 +23,17 @@
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||advert*.livesportmedia.eu^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
 ||prebid-*.rubiconproject.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
+||stats*.videonow.ru^
+||ad*.on.cc^
 ||pijama.*.elasticbeanstalk.com^
+||analytics*.clickdimensions.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
 ||sock*-goguardian.pusher.com^
@@ -91,17 +91,6 @@
 ||sd.yhzzzs*.com^
 ||thezbpe5*.xyz^
 ||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -257,6 +246,7 @@
 ||tnc16-*.byteoversea.com^
 ||log*.byteoversea.com^
 ||api*.amplitude.com^
+||yhsfsdv*.com^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
 ||tracking-*.trnox.com^
@@ -298,6 +288,16 @@
 ||dw-informer-*.newsru.com^
 ||banner*.kinogo.by^
 ||ad*.bilgin.pro^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||ad*.tmgrup.com.tr^
 ||basvformu*.xyz^
 ||partner.superbahisaffiliates*.com^
