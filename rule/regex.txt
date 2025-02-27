@@ -1,13 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-27 16:11:07
+! Last Modified: 2025-02-28 00:09:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
+||zbb.bbb.*.pics^
+||ad*.on.cc^
 ||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
@@ -17,23 +17,13 @@
 ||www.fuze-sea*.xyz^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||vns86.oss-*.aliyuncs.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||107.167.16.*.gif
-||107.167.22.*.gif
-||121.204.246.*.gif
-||38.33.15.*.gif
-||67.21.92.*.gif
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
 ||tnc*.zijieapi.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
 ||collect-v*.51.la^
@@ -47,6 +37,16 @@
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
 ||sock*-goguardian.pusher.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||vns86.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||107.167.16.*.gif
+||107.167.22.*.gif
+||121.204.246.*.gif
+||38.33.15.*.gif
+||67.21.92.*.gif
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -80,15 +80,9 @@
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||163487*.qmgmw.com^
-||acookie.*.gif?
-||app2.*dfs.com^
-||bjkedv*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||ads*.textra.me^
 ||ads-*-nfl.yinzcam.com^
 ||aan.amazon.*^
@@ -221,8 +215,6 @@
 ||ali-bj-pcdn-*.biliapi.net^
 ||mon*-misc-lf.fqnovel.com^
 ||sonar*.xy.fbcdn.net^
-||opnked*.xyz^
-||p26.gejulm*.com^
 ||admob-app-id-*.firebaseio.com^
 ||analytics-*-nfl.yinzcam.com^
 ||report.*.gbqofs.io^
@@ -260,6 +252,7 @@
 ||mcs-va-*.tiktokv.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||acookie.*.gif?
 ||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
@@ -272,6 +265,7 @@
 ||cdn*.swaxis.com^
 ||alishop*.ru^
 ||gonews*.net^
+||app2.*dfs.com^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
 ||rb*.design.ru^
@@ -288,6 +282,7 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
+||bjkedv*.xyz^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
@@ -295,7 +290,9 @@
 ||mautic.*.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
-||sd.yhzzzs*.com^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
@@ -306,12 +303,15 @@ analytics-*.aasaam.com
 ||ad*.wisenut.co.kr^
 ||adservice.google.co.*
 ||ads-*.v.ssp.yahoo.com^
-||thezbpe5*.xyz^
-||mobileanalytics.*.amazonaws.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
 ||www.xxmh*.com^
 ||yhsfsdv*.com^
 ||zabdybod*.club^
