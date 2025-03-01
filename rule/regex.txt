@@ -1,10 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-01 16:09:49
+! Last Modified: 2025-03-02 00:07:48
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
@@ -15,7 +13,19 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||zbb.bbb.*.pics^
 ||advert*.livesportmedia.eu^
+||ad*.on.cc^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||vns86.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||107.167.16.*.gif
+||107.167.22.*.gif
+||121.204.246.*.gif
+||38.33.15.*.gif
+||67.21.92.*.gif
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
@@ -36,20 +46,10 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||sock*-goguardian.pusher.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||vns86.oss-*.aliyuncs.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||107.167.16.*.gif
-||107.167.22.*.gif
-||121.204.246.*.gif
-||38.33.15.*.gif
-||67.21.92.*.gif
+@@||adobeid-*.services.adobe.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
-@@||adobeid-*.services.adobe.com^
+||sock*-goguardian.pusher.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
 ||impservice*.yodao.com^
@@ -84,24 +84,6 @@
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -129,8 +111,11 @@
 ||banner.*.tccapis.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
+||js.*2023*.live^
+||js.*2023*.xyz^
 ||adserver.*.yahoodns.net^
 ||ad*.nexage.com^
+||opnked*.xyz^
 ||iad-*.appboy.com^
 ||mediate-ios-*.hyprmx.com^
 ||production-adserver-*.amazonaws.com^
@@ -219,6 +204,8 @@
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -274,6 +261,7 @@
 ||mcs-va-*.tiktokv.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
+||thezbpe5*.xyz^
 ||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
@@ -285,6 +273,18 @@
 ||v.tzbox*.xyz^
 ||cdn*.swaxis.com^
 ||alishop*.ru^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||gonews*.net^
 ||iphone-caviar.ru*entranceId
 ||minitds-*.info^
