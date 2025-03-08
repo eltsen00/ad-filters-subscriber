@@ -1,8 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-08 16:07:44
+! Last Modified: 2025-03-09 00:06:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||zbb.bbb.*.pics^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
@@ -11,11 +12,10 @@
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
-||zbb.bbb.*.pics^
-||ad*.on.cc^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
 ||*.exaapi.com^
+||ad*.on.cc^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -31,12 +31,8 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||analytics*.clickdimensions.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
+||sock*-goguardian.pusher.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -47,12 +43,16 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||sock*-goguardian.pusher.com^
-||adi*.cnool.net^
-||ax.*.ifeng.com^
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 @@||adobeid-*.services.adobe.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+||pijama.*.elasticbeanstalk.com^
+||adi*.cnool.net^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
+||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -85,6 +85,24 @@
 ||app2.*dfs.com^
 ||bjkedv*.xyz^
 ||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -132,12 +150,6 @@
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
 ||query*.petametrics.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
 ||staging-*.ispot.tv^
 ||stlog*-local.kakao.com^
 ||mssdk*.capcutapi.com^
@@ -149,7 +161,6 @@
 ||clickstream-*.homedepot.com^
 ||acr-*-prd.samsungcloud.tv^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
-||f-log-*.grammarly.io^
 ||servo-report.keepstreams.*^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
@@ -169,7 +180,6 @@
 ||sensorsdata*.read.duokan.com^
 ||analytics.*.sky.com^
 ||ad*.ettoday.net^
-||www.xxmh*.com^
 ||log*.vietnamplus.vn^
 ||adcounter*.uptolike.ru^
 ||analytics-rollout-*.amazonaws.com^
@@ -201,25 +211,15 @@
 ||host*.rigbyandpeller.com^
 ||hstats*.hepsiburada.com^
 ||iptracker-lb-*.amazonaws.com^
-||yhsfsdv*.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
-||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
+||f-log-*.grammarly.io^
+||pixel*.adswizz.com
+||pxl-*.ozone.ru^
+||logger-*.dailymotion.com^
 ||metric*.rediff.com^
 ||mobileanalytics.*.amazonaws.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||pixel*.adswizz.com
-||zcchyr*.xyz^
-||zcchyw*.xyz^
-||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
