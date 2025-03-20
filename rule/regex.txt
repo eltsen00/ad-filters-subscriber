@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-20 16:11:43
+! Last Modified: 2025-03-21 00:10:30
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||zbb.bbb.*.pics^
@@ -8,6 +8,14 @@
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
+||clk.rtpdn*.com^
+||teleriumads-*.netdna-ssl.com^
+||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+||*.exaapi.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
 ||polaris*-normal-*.zijieapi.com^
@@ -23,14 +31,17 @@
 ||rum*.cdnvideo.ru^
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
-||clk.rtpdn*.com^
-||teleriumads-*.netdna-ssl.com^
 ||analytics*.clickdimensions.com^
-||putrr*.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
+||query*.petametrics.com^
+||sock*-goguardian.pusher.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -41,18 +52,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||query*.petametrics.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
-||*.exaapi.com^
 ||adi*.cnool.net^
-||sock*-goguardian.pusher.com^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -60,6 +60,8 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||ya*.dwstatic.com^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
@@ -88,24 +90,6 @@
 ||gtlpa*.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||*bmwmini.tt.omtrdc.net^
-||*bmwofnorthamericallc.tt.omtrdc.net^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -139,9 +123,11 @@
 ||mediate-ios-*.hyprmx.com^
 ||production-adserver-*.amazonaws.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||opnked*.xyz^
 ||srmdata-*.com^
 ||cl*.k5a.io^
 ||livetracker.*.pangea-cms.com^
+||p26.gejulm*.com^
 ||logs*.smithsonian.museum^
 ||snowplow-collector-*.amazonaws.com^
 ||v*.sitecounter.site^
@@ -152,6 +138,8 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
 ||staging-*.ispot.tv^
 ||stlog*-local.kakao.com^
 ||mssdk*.capcutapi.com^
@@ -164,6 +152,7 @@
 ||clickstream-*.homedepot.com^
 ||acr-*-prd.samsungcloud.tv^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
+||f-log-*.grammarly.io^
 ||servo-report.keepstreams.*^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
@@ -223,6 +212,10 @@
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
+||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -230,6 +223,7 @@
 ||tracking.*.miui.com^
 ||datacollector-*.dt.hicloud.com^
 ||use-trk*.bluevoox.com^
+||www.xxmh*.com^
 ||t*.playdigo.live^
 ||hotapi*.tiktokv.us^
 ||tnc*.tiktokv.us^
@@ -251,7 +245,6 @@
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
 ||mapi-log.qoo*.jp^
-||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
@@ -276,12 +269,19 @@
 ||mon-*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||mcs-va-*.tiktokv.com^
+||yhsfsdv*.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||tracking*.euroads.fi^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
