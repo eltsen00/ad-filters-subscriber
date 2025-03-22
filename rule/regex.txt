@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-22 00:09:39
+! Last Modified: 2025-03-22 08:38:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||zbb.bbb.*.pics^
@@ -15,6 +15,12 @@
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
+||*.exaapi.com^
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||install*.zonastat.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
@@ -33,25 +39,22 @@
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
 ||query*.petametrics.com^
-||sock*-goguardian.pusher.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||*.exaapi.com^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||adi*.cnool.net^
+||sock*-goguardian.pusher.com^
 ||ax.*.ifeng.com^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -59,11 +62,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||*bmwmini.tt.omtrdc.net^
-||*bmwofnorthamericallc.tt.omtrdc.net^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -84,7 +82,31 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||163487*.qmgmw.com^
+||acookie.*.gif?
+||app2.*dfs.com^
+||bjkedv*.xyz^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+||opnked*.xyz^
+||p26.gejulm*.com^
+||sd.yhzzzs*.com^
+||thezbpe5*.xyz^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -130,10 +152,7 @@
 ||parkdomainreal*.site^
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
-||acookie.*.gif?
 ||metrics*.fitanalytics.com^
-||app2.*dfs.com^
-||bjkedv*.xyz^
 ||staging-*.ispot.tv^
 ||stlog*-local.kakao.com^
 ||mssdk*.capcutapi.com^
@@ -146,6 +165,7 @@
 ||clickstream-*.homedepot.com^
 ||acr-*-prd.samsungcloud.tv^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
+||f-log-*.grammarly.io^
 ||servo-report.keepstreams.*^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
@@ -198,7 +218,10 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
+||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
@@ -207,6 +230,7 @@
 ||t*.zcvh.net^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
+||tracking*.euroads.fi^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
 ||tracking.*.miui.com^
@@ -233,7 +257,6 @@
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
 ||mapi-log.qoo*.jp^
-||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
 ||appanalysis*.banggood.com^
@@ -260,17 +283,12 @@
 ||mcs-va-*.tiktokv.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||logger-*.dailymotion.com^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
-||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
 ||adserver*.euroweeklynews.com^
 ||broredir*s.site^
 ||orbit*.lun.ua^
-||gtlpa*.com^
 ||q*-publick.club^
 ||v.tzbox*.xyz^
 ||cdn*.swaxis.com^
@@ -292,8 +310,6 @@
 ||partner.superbahisaffiliates*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||admicro*.vcmedia.vn^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
@@ -313,21 +329,5 @@ analytics-*.aasaam.com
 ||ads-*.v.ssp.yahoo.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||s*.adduplex.com^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
-||www.xxmh*.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 directtrack.*.js
 ||log*-*.tiktokv.com^
