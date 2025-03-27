@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-27 08:39:14
+! Last Modified: 2025-03-27 16:11:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||zbb.bbb.*.pics^
@@ -13,34 +13,26 @@
 ||pixel-*.convertagain.net^
 ||collector*.ex.co^
 ||collect-v*.51.la^
-||px*.mediahills.ru^
-||analytics*.prezly.com^
-||browser-intake-*-datadoghq.com^
-||collector-*.tvsquared.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||rum*.a.trbcdn.net^
-||stats*.videonow.ru^
-||analytics*.clickdimensions.com^
 ||st-n.ads*-adnow.com^
+||px*.mediahills.ru^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
+||analytics*.prezly.com^
+||browser-intake-*-datadoghq.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
+||collector-*.tvsquared.com^
+||pixelapi-*.cs.mysamba.tv^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||query*.petametrics.com^
-||sock*-goguardian.pusher.com^
-||*.exaapi.com^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
+||rum*.cdnvideo.ru^
+||rum*.a.trbcdn.net^
+||stats*.videonow.ru^
+||analytics*.clickdimensions.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -51,11 +43,19 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||adi*.cnool.net^
-||ax.*.ifeng.com^
 @@||adobeid-*.services.adobe.com^
+||*.exaapi.com^
+||adi*.cnool.net^
+||query*.petametrics.com^
+||ax.*.ifeng.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+||sock*-goguardian.pusher.com^
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
@@ -63,8 +63,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||*bmwmini.tt.omtrdc.net^
-||*bmwofnorthamericallc.tt.omtrdc.net^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -85,6 +83,8 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||app2.*dfs.com^
@@ -97,6 +97,17 @@
 ||sd.yhzzzs*.com^
 ||thezbpe5*.xyz^
 ||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||creative*.bidease.com^
 ||ads*-normal-*.zijieapi.com^
@@ -143,17 +154,6 @@
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
-||yhsfsdv*.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
 ||client.rum.*.amazonaws.com^
 ||staging-*.ispot.tv^
 ||stlog*-local.kakao.com^
@@ -167,6 +167,7 @@
 ||clickstream-*.homedepot.com^
 ||acr-*-prd.samsungcloud.tv^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
+||f-log-*.grammarly.io^
 ||servo-report.keepstreams.*^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
@@ -195,7 +196,6 @@
 ||collect-elb-*.amazonaws.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||cs*.mp3bars.com^
-||f-log-*.grammarly.io^
 ||datacollect*.abtasty.com^
 ||device-metrics-us*.amazon.com^
 ||eum*.instana.io^
@@ -216,13 +216,17 @@
 ||iptracker-lb-*.amazonaws.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||log*.aliyuncs.com^
+||logger-*.dailymotion.com^
 ||lt*.tritondigital.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
 ||pixel*.adswizz.com
 ||pxl-*.ozone.ru^
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
+||tracking*.euroads.fi^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||api-*.hismarttv.com^
@@ -244,15 +248,12 @@
 ||admob-app-id-*.firebaseio.com^
 ||analytics-*-nfl.yinzcam.com^
 ||report.*.gbqofs.io^
-||logger-*.dailymotion.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
 ||fp-*it*.fengkongcloud.com^
-||metric*.rediff.com^
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
-||mobileanalytics.*.amazonaws.com^
 ||mapi-log.qoo*.jp^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
@@ -280,7 +281,6 @@
 ||mcs-va-*.tiktokv.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
-||tracking*.euroads.fi^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
 ||stats-*.p2pnow.ru^
