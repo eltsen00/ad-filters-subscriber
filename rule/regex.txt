@@ -1,22 +1,21 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-09 08:39:51
+! Last Modified: 2025-04-09 16:12:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||zbb.bbb.*.pics^
 ||st-n.ads*-adnow.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
-||zbb.bbb.*.pics^
 ||clk.rtpdn*.com^
+||ad*.on.cc^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
 ||mf*.advantage.as^
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
-||ad*.on.cc^
-||*.exaapi.com^
 ||install*.zonastat.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
@@ -34,8 +33,6 @@
 ||rum*.a.trbcdn.net^
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||query*.petametrics.com^
-||sock*-goguardian.pusher.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -46,25 +43,28 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||adi*.cnool.net^
+||*.exaapi.com^
+||query*.petametrics.com^
+||sock*-goguardian.pusher.com^
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
 ||hostingcloud.*.wasm^
 ||s*.skencituer.com^
+||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
+@@||adobeid-*.services.adobe.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-@@||adobeid-*.services.adobe.com^
 ||ya*.dwstatic.com^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
-||*bmwmini.tt.omtrdc.net^
-||*bmwofnorthamericallc.tt.omtrdc.net^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -280,9 +280,6 @@
 ||rb*.design.ru^
 ||real*traf.ru^
 ||subnewss*.net^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
 ||u*.takru.com^
 ||v.newsportal*.ru^
 ||w*statistics.info^
@@ -292,8 +289,6 @@
 ||ad*.tmgrup.com.tr^
 ||basvformu*.xyz^
 ||partner.superbahisaffiliates*.com^
-||opnked*.xyz^
-||p26.gejulm*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
 ||admicro*.vcmedia.vn^
@@ -303,6 +298,23 @@
 ||mautic.*.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||gtlpa*.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
+analytics-*.aasaam.com
+||pangolin*.sgsnssdk.com^
+||ad.*.doubleclick.net^
+||cdn-adn-*.rayjump.com^
+||iad-*.braze.com^
+||adimg*.search.naver.net^
+||ad*.thisisgame.com^
+||ad*.wisenut.co.kr^
+||adservice.google.co.*
+||ads-*.v.ssp.yahoo.com^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||s*.adduplex.com^
+||opnked*.xyz^
+||p26.gejulm*.com^
 ||sd.yhzzzs*.com^
 ||thezbpe5*.xyz^
 ||www.xxmh*.com^
@@ -317,17 +329,5 @@
 ||zbc6hye*.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
-analytics-*.aasaam.com
-||pangolin*.sgsnssdk.com^
-||ad.*.doubleclick.net^
-||cdn-adn-*.rayjump.com^
-||iad-*.braze.com^
-||adimg*.search.naver.net^
-||ad*.thisisgame.com^
-||ad*.wisenut.co.kr^
-||adservice.google.co.*
-||ads-*.v.ssp.yahoo.com^
-||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
-||s*.adduplex.com^
 directtrack.*.js
 ||log*-*.tiktokv.com^
