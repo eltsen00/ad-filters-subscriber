@@ -1,16 +1,21 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-12 08:39:25
+! Last Modified: 2025-04-12 16:10:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||st-n.ads*-adnow.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
-||zbb.bbb.*.pics^
 ||clk.rtpdn*.com^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
+||block.s*block.com^
+||mf*.advantage.as^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+||zbb.bbb.*.pics^
+||ad*.on.cc^
 ||install*.zonastat.com^
 ||log*.zijieapi.com^
 ||mssdk*.zijieapi.com^
@@ -29,21 +34,7 @@
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
 ||query*.petametrics.com^
-||block.s*block.com^
-||mf*.advantage.as^
-||www.fuze-hill*.xyz^
-||www.fuze-sea*.xyz^
-||ad*.on.cc^
 ||*.exaapi.com^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
-||pijama.*.elasticbeanstalk.com^
-||hostingcloud.*.wasm^
-||s*.skencituer.com^
-||sock*-goguardian.pusher.com^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -54,6 +45,12 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
+||pijama.*.elasticbeanstalk.com^
+||hostingcloud.*.wasm^
+||s*.skencituer.com^
+||sock*-goguardian.pusher.com^
 ||adi*.cnool.net^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
@@ -62,9 +59,10 @@
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-||*bmwmini.tt.omtrdc.net^
-||*bmwofnorthamericallc.tt.omtrdc.net^
 ||ya*.dwstatic.com^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -85,6 +83,8 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||163487*.qmgmw.com^
 ||acookie.*.gif?
 ||app2.*dfs.com^
