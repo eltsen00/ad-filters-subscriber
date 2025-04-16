@@ -1,15 +1,15 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-16 00:08:35
+! Last Modified: 2025-04-16 08:41:17
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||zbb.bbb.*.pics^
+||ad*.on.cc^
 ||st-n.ads*-adnow.com^
 ||reachableads-av.*.amazonaws.com^
-||zbb.bbb.*.pics^
 ||ads.livetv*.me^
 ||counter*.stat.ovh^
 ||clk.rtpdn*.com^
-||ad*.on.cc^
 ||teleriumads-*.netdna-ssl.com^
 ||putrr*.com^
 ||block.s*block.com^
@@ -35,6 +35,7 @@
 ||analytics*.clickdimensions.com^
 ||query*.petametrics.com^
 ||*.exaapi.com^
+||sock*-goguardian.pusher.com^
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -50,8 +51,12 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
-||sock*-goguardian.pusher.com^
+||*bmwmini.tt.omtrdc.net^
+||*bmwofnorthamericallc.tt.omtrdc.net^
 ||adi*.cnool.net^
+@@||adobeid-*.services.adobe.com^
+@@||cdn-msp*.18comic*.*^
+@@||cdn-msp*.18comic.*^
 ||ax.*.ifeng.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -60,11 +65,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||ya*.dwstatic.com^
-||*bmwmini.tt.omtrdc.net^
-||*bmwofnorthamericallc.tt.omtrdc.net^
-@@||adobeid-*.services.adobe.com^
-@@||cdn-msp*.18comic*.*^
-@@||cdn-msp*.18comic.*^
 ||a*.chajiaotong.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -85,17 +85,6 @@
 ||uc*.atobo.com^
 ||union*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||163487*.qmgmw.com^
-||acookie.*.gif?
-||app2.*dfs.com^
-||bjkedv*.xyz^
-||gtlpa*.com^
-||js.*2023*.live^
-||js.*2023*.xyz^
-||opnked*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-||thezbpe5*.xyz^
 ||adv0*.msa.cdn.mediaset.net^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||creative*.bidease.com^
@@ -131,7 +120,6 @@
 ||production-adserver-*.amazonaws.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||srmdata-*.com^
-||www.xxmh*.com^
 ||cl*.k5a.io^
 ||livetracker.*.pangea-cms.com^
 ||logs*.smithsonian.museum^
@@ -140,21 +128,14 @@
 ||tag-based.s3.*.amazonaws.com^
 ||suite*.linximpulse.net^
 ||eclog*-*.cafe24.com^
-||yhsfsdv*.com^
 ||parkdomainreal*.site^
 ||i-*.ci360.sas.com^
 ||counter*.freecounter.ovh^
 ||metrics*.fitanalytics.com^
-||zabdybod*.club^
-||zahrvfbd*.xyz^
-||zaqlovh*.xyz^
-||zazgbqg*.xyz^
-||zazgiyoh*.world^
-||zazgiyoh*.xyz^
-||zbc6hy*.live^
-||zbc6hye*.xyz^
-||zcchyr*.xyz^
-||zcchyw*.xyz^
+||163487*.qmgmw.com^
+||acookie.*.gif?
+||app2.*dfs.com^
+||bjkedv*.xyz^
 ||beacon-*.helpscout.net^
 ||client.rum.*.amazonaws.com^
 ||staging-*.ispot.tv^
@@ -169,8 +150,8 @@
 ||clickstream-*.homedepot.com^
 ||acr-*-prd.samsungcloud.tv^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
-||servo-report.keepstreams.*^
 ||f-log-*.grammarly.io^
+||servo-report.keepstreams.*^
 ||apple-*.le.com^
 ||tracking-v*.a.run.app^
 ||faro-collector-prod-*.grafana.net^
@@ -225,11 +206,8 @@
 ||st-*.dynamicyield.com^
 ||stat*.1internet.tv^
 ||t*.zcvh.net^
-||logger-*.dailymotion.com^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
-||metric*.rediff.com^
-||mobileanalytics.*.amazonaws.com^
 ||api-*.hismarttv.com^
 ||auth-*.hismarttv.com^
 ||tracking.*.miui.com^
@@ -255,7 +233,6 @@
 ||fp-*it*.fengkongcloud.com^
 ||maas-*.phunware.com^
 ||imp-*.jampp.com^
-||tracking*.euroads.fi^
 ||mapi-log.qoo*.jp^
 ||log*-misc-lf.amemv.com^
 ||beacons*.gvt3.com^
@@ -267,6 +244,11 @@
 ||api*.amplitude.com^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
+||logger-*.dailymotion.com^
+||metric*.rediff.com^
+||mobileanalytics.*.amazonaws.com^
+||tracking*.euroads.fi^
+||gtlpa*.com^
 ||tracking-*.trnox.com^
 ||report*.appmetrica.webvisor.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -285,6 +267,8 @@
 ||mcdp-*.outbrain.com^
 ||aff*.kolektiva.net^
 ||stats2.*.fdnames.com^
+||js.*2023*.live^
+||js.*2023*.xyz^
 ||stats-*.p2pnow.ru^
 ||adserver*.euroweeklynews.com^
 ||broredir*s.site^
@@ -308,15 +292,31 @@
 ||ad*.tmgrup.com.tr^
 ||basvformu*.xyz^
 ||partner.superbahisaffiliates*.com^
+||opnked*.xyz^
+||p26.gejulm*.com^
 *ad.durasite.net^
 ||bar*.shinobi.jp^
+||sd.yhzzzs*.com^
 ||admicro*.vcmedia.vn^
+||thezbpe5*.xyz^
 ||log-*.epicdn.me^
 ||log-*.zadn.vn^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||piwik.*.vn^
 ||quangcao-*.epicdn.me^
+||www.xxmh*.com^
+||yhsfsdv*.com^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
+||zaqlovh*.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
+||zbc6hy*.live^
+||zbc6hye*.xyz^
+||zcchyr*.xyz^
+||zcchyw*.xyz^
 analytics-*.aasaam.com
 ||pangolin*.sgsnssdk.com^
 ||ad.*.doubleclick.net^
